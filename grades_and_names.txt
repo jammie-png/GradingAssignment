@@ -1,0 +1,25 @@
+Class Kodlama_Okuryazarlığı
+Elif Ecem Gelir 100
+Abdullah Erzak 54
+Yağmur Ahıska 76
+Zeynep Tuana Soylu 60
+Johnny Goldman 70
+Saddam Hussein 11
+Elif Ecem Gelir 100
+Abdullah Erzak 54
+Yağmur Ahıska 76
+Zeynep Tuana Soylu 60
+Johnny Goldman 70
+Saddam Hussein 11
+Elif Ecem Gelir 100
+Abdullah Erzak 54
+Yağmur Ahıska 76
+Zeynep Tuana Soylu 60
+Johnny Goldman 70
+Saddam Hussein 11
+Elif Ecem Gelir 100
+Abdullah Erzak 54
+Yağmur Ahıska 76
+Zeynep Tuana Soylu 60
+Johnny Goldman 70
+Saddam Hussein 11
